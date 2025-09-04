@@ -18,20 +18,20 @@ See the [full changelog](/CHANGELOG.md) for release details.
 
 ## Install
 
-If you just want to use @xaviabot/fca-unofficial, you should use this command:
+If you just want to use fca-sagor-vex, you should use this command:
 
 ```bash
-npm install @xaviabot/fca-unofficial
+npm install fca-sagor-vex
 ```
 
-It will download @xaviabot/fca-unofficial from NPM repositories
+It will download fca-sagor-vex from NPM repositories
 
 ### Bleeding edge
 
 If you want to use bleeding edge (directly from github) to test new features or submit bug report, this is the command for you:
 
 ```bash
-npm install XaviaTeam/fca-unofficial
+npm install 
 ```
 
 ## Testing your bots
