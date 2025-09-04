@@ -1,6 +1,6 @@
 // Origin: NOCOM-BOT/mod_fbmsg_legacy
 
-declare module '@xaviabot/fca-unofficial' {
+declare module 'fca-sagor-vex' {
     import type { Readable, Duplex, Transform } from "stream";
     import type EventEmitter from "events";
 
