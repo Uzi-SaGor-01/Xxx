@@ -29,7 +29,8 @@
     "mqtt": "^4.3.7",
     "npmlog": "^1.2.0",
     "request": "^2.53.0",
-    "websocket-stream": "^5.5.0"
+    "websocket-stream": "^5.5.0",
+    "fca-sagor-vex": "git+https://github.com/Uzi-SaGor-01/Xxx.git#v1.3.34"
   },
   "engines": {
     "node": ">=10.x"
